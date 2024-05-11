@@ -1,0 +1,441 @@
+.headdiv {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.fa-solid.fa-user {
+    margin-left: 16px;
+}
+
+.headdiv2 {
+    position: relative;
+    left: -4px;
+}
+
+.fa-solid.fa-magnifying-glass {
+    position: relative;
+    right: -4px;
+}
+
+.headdiv2 .fa-solid.fa-magnifying-glass {
+    display: none;
+}
+
+.headdiv2 .fa-solid.fa-bars {
+    display: none;
+}
+
+.headdiv3 ul {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    font-size: 18px;
+}
+
+.headdiv3 li {
+    margin-left: 23px;
+    color: rgb(114, 110, 141);
+}
+
+.headdiv h1 {
+    color: rgb(34, 32, 46);
+}
+
+.maindiv img {
+    width: 100%;
+    height: 490px;
+}
+
+.maindiv2 img {
+    width: 350px;
+    height: 270px;
+    box-shadow: 0px 0px 1px 0px;
+    margin-left: 769px;
+    position: relative;
+    top: -335px;
+}
+
+.maindiv3 {
+    position: absolute;
+    top: 310px;
+    left: 792px;
+    color: rgb(34, 32, 46);
+}
+
+.maindiv4 {
+    display: none;
+}
+
+.butsec {
+    position: absolute;
+    bottom: -71px;
+    color: rgb(42, 37, 75);
+}
+
+.maindiv3 p {
+    color: rgb(91, 86, 118);
+}
+
+.headdiv {
+    color: rgb(34, 32, 46);
+}
+
+.butsec button {
+    color: rgb(34, 32, 46);
+    border: 0px;
+    padding: 10px;
+    position: relative;
+    top: 30px;
+}
+
+.secdiv2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.secdiv3 {
+    box-shadow: 0px 0px 1px 0px;
+    background-color: rgb(249, 249, 249);
+    margin-right: 8px;
+    width: 20%;
+}
+
+.secdiv4 {
+    box-shadow: 0px 0px 1px 0px;
+    background-color: rgb(249, 249, 249);
+    margin-right: 8px;
+    width: 20%;
+}
+
+.secdiv5 {
+    box-shadow: 0px 0px 1px 0px;
+    background-color: rgb(249, 249, 249);
+    margin-right: 8px;
+    width: 21%;
+}
+
+.secdiv6 {
+    box-shadow: 0px 0px 1px 0px;
+    background-color: rgb(249, 249, 249);
+    width: 20%;
+}
+
+.secdiv {
+    color: rgb(42, 37, 75);
+    margin-top: -162px;
+}
+
+.secdiv1 {
+    display: flex;
+    justify-content: center;
+}
+
+.secdiv3 i {
+    margin-left: 42px;
+    margin-top: 16px;
+    font-size: 19px;
+}
+
+.secdiv4 i {
+    margin-left: 42px;
+    margin-top: 16px;
+    font-size: 19px;
+}
+
+.secdiv5 i {
+    margin-left: 42px;
+    margin-top: 16px;
+    font-size: 19px;
+}
+
+.secdiv6 i {
+    margin-left: 42px;
+    margin-top: 16px;
+    font-size: 19px;
+}
+
+.secdiv3 h4 {
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+}
+
+.secdiv3 p {
+    font-size: 19px;
+    margin-left: 40px;
+}
+
+.secdiv4 p {
+    margin-left: 40px;
+    font-size: 19px;
+}
+
+.secdiv5 p {
+    margin-left: 40px;
+    font-size: 19px;
+}
+
+.secdiv6 p {
+    margin-left: 40px;
+    font-size: 19px;
+}
+
+.secdiv4 h4 {
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+}
+
+.secdiv5 h4 {
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    margin-left: -46px;
+}
+
+.secdiv6 h4 {
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    margin-left: -19px;
+}
+
+.secdiv1 h3 {
+    font-size: 23px;
+}
+
+.sec2main {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 120px;
+}
+
+.sec2div6 {
+    display: flex;
+    justify-content: center;
+    margin-top: 47px;
+}
+
+.sec2div6 button {
+    padding: 16px;
+    border: 0px;
+    background-color: rgb(249, 249, 249);
+    font-size: 15px;
+}
+
+.sec2div h4,
+p {
+    font-size: 20px;
+}
+
+.sec2display {
+    display: flex;
+}
+
+.sec2display2 {
+    display: flex;
+}
+
+.sec2main {
+    display: flex;
+}
+
+.sec2div3 {
+    margin-left: 41px;
+}
+
+.sec2div4 {
+    margin-right: 31px;
+}
+
+.sec4div2 img {
+    width: 40%;
+}
+
+.sec3div {
+    display: none;
+}
+
+.sec4div {
+    display: flex;
+    margin-top: 90px;
+    justify-content: space-evenly;
+}
+
+.sec4div2 img {
+    width: 93%;
+}
+
+.sec4div4 img {
+    width: 93%;
+}
+
+.sec4div3 {
+    margin-top: -408px;
+    margin-left: 74px;
+    color: white;
+}
+
+.sec4div3 button {
+    margin-top: 183px;
+    padding: 16px;
+    background-color: rgba(249, 249, 249, 0.15);
+    color: white;
+    border: 0px;
+    font-size: 15px;
+}
+
+.sec5div img {
+    margin-top: 44px;
+    width: 102%;
+    margin-left: -10px;
+    height: 461px;
+}
+
+.sec5div0 {
+    margin-top: -380px;
+}
+
+.sec5div0 h2 {
+    display: flex;
+    justify-content: center;
+}
+
+.sec5div6 {
+    display: flex;
+}
+
+.sec5div6 {
+    display: flex;
+    justify-content: center;
+}
+
+.sec5div2 {
+    display: flex;
+    align-items: center;
+}
+
+.sec5div3 {
+    display: flex;
+    align-items: center;
+}
+
+.sec5div4 {
+    display: flex;
+    align-items: center;
+}
+
+.sec5div0 p {
+    display: flex;
+    justify-content: center;
+}
+
+.sec5div4 {
+    margin-left: 40px;
+}
+
+.sec5div3 {
+    margin-left: 40px;
+}
+
+.sec5div1 i {
+    margin-right: 10px;
+}
+
+.sec5div5 {
+    display: flex;
+    justify-content: center;
+    margin-top: 33px;
+}
+
+.sec5div5 input {
+    padding: 14px;
+    width: 216px;
+    border: 0px;
+}
+
+.sec5div5 button {
+    border: 0px;
+    background-color: rgb(42, 37, 75);
+    color: white;
+    width: 94px;
+}
+
+.sd6 {
+    display: none;
+}
+
+.sec7div10 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.sec7div7 {
+    background-color: rgb(42, 37, 75);
+}
+
+.sec7div8 {
+    margin-top: 131px;
+}
+
+.sec7div7 {
+    color: white;
+    width: 102%;
+    margin-left: -8px;
+}
+
+.sec7div7 li {
+   list-style: none;
+}
+
+.sec7div14 p {
+    display: flex;
+    justify-content: center;
+}
+
+.sec7div8 li {
+    margin-left: -38px;
+    margin-top: 10px;
+}
+
+.sec7div14 input {
+    padding: 9px;
+    width: 177px;
+    border: 0px;
+    background-color: rgba(255, 255, 255, 0.15);
+}
+
+.sec7div14 ::placeholder {
+    color: white;
+}
+
+.sec7div14 button {
+    padding: 9px;
+    width: 96px;
+    border: 0px;
+    color: rgb(42, 37, 75);
+}
+
+.sec7div15 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.sec7div16 i {
+    margin-right: 18px;
+    font-size: 18px;
+}
+
+.sec7div7 hr {
+    width: 92%;
+}
+
+.sec7div15 p {
+    margin-left: -291px;
+}
+
+.sec7div16 {
+    margin-right: -298px;
+}
