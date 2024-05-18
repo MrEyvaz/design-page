@@ -4,6 +4,10 @@
     align-items: center;
 }
 
+body {
+    font-family: 'Satoshi', sans-serif;
+}
+
 .fa-solid.fa-user {
     margin-left: 16px;
 }
@@ -48,7 +52,7 @@
 }
 
 .maindiv2 img {
-    width: 350px;
+    width: 377px;
     height: 270px;
     box-shadow: 0px 0px 1px 0px;
     margin-left: 769px;
