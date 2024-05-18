@@ -3,6 +3,10 @@
         display: none;
     }
 
+    body {
+        font-family: 'Satoshi', sans-serif;
+    }
+
     .fa-solid.fa-cart-shopping {
         display: none;
     }
